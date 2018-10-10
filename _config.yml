@@ -26,7 +26,7 @@ permalink:  /:title
 # Build settings
 markdown: kramdown
 remote_theme: broccolini/swiss
-theme_color: magenta
+theme_color: yellow
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
